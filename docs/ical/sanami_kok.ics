@@ -14,12 +14,7 @@ DTEND:20251130T150000Z
 DTSTAMP:20150421T141403
 LOCATION:香港科學園海雲薈
 GEO:37.5739497;-85.7399606
-DESCRIPTION:香港科學園 海雲薈\n
-Google Maps\n
-URL:https://maps.app.goo.gl/xQFnaoXMch9YKpog6 \n
-\n
-高德地圖\n
-URL:https://surl.amap.com/aWkEiJ71wfFd \n
+DESCRIPTION:香港科學園 海雲薈\nGoogle Maps\nURL:https://maps.app.goo.gl/xQFnaoXMch9YKpog6 \n\n高德地圖\nURL:https://surl.amap.com/aWkEiJ71wfFd \n
 END:VEVENT
 END:VCALENDAR
 
